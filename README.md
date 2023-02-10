@@ -5,13 +5,17 @@
 * 使用该工具需要通关游戏，查看所有文本，因此译者未遇到的文本默认使用机翻。
 * 存在部分缺字的问题
 * 包含变量的文本需要用到正则表达式，目前的译作尚未设置好相关配置，同样默认使用机翻。
+## 使用工具
+XUnity.AutoTranslator：https://github.com/bbepis/XUnity.AutoTranslator
+Unity（制作TMP字体）
 ## 项目
 ### Ghost Lore / 鬼怪传说
 * Steam页面：https://store.steampowered.com/app/1783280/Ghostlore/
 * 下载链接: https://pan.baidu.com/s/1rDiu20jI38fv5VsgpHM0LQ 提取码: f3qc
 * 另外可在创意工坊订阅
-
+* 当前版本：0.3
 ### Love Love School Days
 * Steam页面：https://store.steampowered.com/app/1305300/Love_Love_School_Days/
-* 下载链接:https://pan.baidu.com/s/1yuR2P-KIA9CxsthQEIcKhQ?pwd=rp4m 提取码:rp4m 
+* 下载链接：https://pan.baidu.com/s/1yuR2P-KIA9CxsthQEIcKhQ?pwd=rp4m 提取码:rp4m 
 * 哔哩哔哩专栏：https://www.bilibili.com/read/cv21710809
+* 当前版本：1.1
