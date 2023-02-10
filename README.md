@@ -1,2 +1,18 @@
 # Translation-Project-Navigation
-Redirect Download Link for my Translation Project 
+#个人汉化游戏导航
+##汉化声明
+*汉化使用XUnity.AutoTranslator自动翻译器，由qsefthuopq提供。仅供学习交流，严禁用于商业用途。
+*本页面用于归档个人汉化的部分游戏，基于XUnity.AutoTranslator，并不能完全汉化，部分文本可能无法识别。
+*使用该工具需要通关游戏，查看所有文本，因此译者未遇到的文本默认使用机翻。
+*存在部分缺字的问题
+*包含变量的文本需要用到正则表达式，目前的译作尚未设置好相关配置，同样默认使用机翻。
+##项目
+###Ghost Lore / 鬼怪传说
+*Steam页面：https://store.steampowered.com/app/1783280/Ghostlore/
+*下载链接: https://pan.baidu.com/s/1rDiu20jI38fv5VsgpHM0LQ 提取码: f3qc
+*另外可在创意工坊订阅
+
+###Love Love School Days
+*Steam页面：https://store.steampowered.com/app/1305300/Love_Love_School_Days/
+*下载链接:https://pan.baidu.com/s/1yuR2P-KIA9CxsthQEIcKhQ?pwd=rp4m 提取码:rp4m 
+*哔哩哔哩专栏：https://www.bilibili.com/read/cv21710809
