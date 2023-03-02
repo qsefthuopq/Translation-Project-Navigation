@@ -4,7 +4,7 @@
 * 本页面用于归档个人汉化的部分游戏，基于XUnity.AutoTranslator，并不能完全汉化，部分文本可能无法识别。
 * 使用该工具需要通关游戏，查看所有文本，因此译者未遇到的文本默认使用机翻。
 * 存在部分缺字的问题
-* 包含变量的文本需要用到正则表达式，目前的译作尚未设置好相关配置，同样默认使用机翻。
+* 包含变量的文本需要用到正则表达式，部分译作尚未设置好相关配置，同样默认使用机翻。
 ## 使用工具
 XUnity.AutoTranslator：https://github.com/bbepis/XUnity.AutoTranslator
 Unity（制作TMP字体）
@@ -18,4 +18,9 @@ Unity（制作TMP字体）
 * Steam页面：https://store.steampowered.com/app/1305300/Love_Love_School_Days/
 * 下载链接：https://pan.baidu.com/s/1yuR2P-KIA9CxsthQEIcKhQ?pwd=rp4m 提取码:rp4m 
 * 哔哩哔哩专栏：https://www.bilibili.com/read/cv21710809
-* 当前版本：1.1
+* 当前版本：1.3
+
+### 9 Childs Street
+* Steam页面：https://store.steampowered.com/app/1895890/9_Childs_Street/
+* 下载链接: https://pan.baidu.com/s/1IoFNHwFzrfErpEDeWd_wUw?pwd=8zh9 提取码: 8zh9
+* 专栏：https://www.bilibili.com/read/cv21710809
