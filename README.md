@@ -24,3 +24,18 @@ Unity（制作TMP字体）
 * Steam页面：https://store.steampowered.com/app/1895890/9_Childs_Street/
 * 下载链接: https://pan.baidu.com/s/1IoFNHwFzrfErpEDeWd_wUw?pwd=8zh9 提取码: 8zh9
 * 专栏：https://www.bilibili.com/read/cv21710809
+
+## 官方中文
+支持本地化的游戏进行的汉化
+
+### 恐怖
+* Phasmophobia / 恐鬼症：https://store.steampowered.com/app/739630/Phasmophobia/
+* FOREWARNED：https://store.steampowered.com/app/1562420/FOREWARNED/
+* Labyrinthine / 迷宫探险：https://store.steampowered.com/app/1302240/Labyrinthine/
+### 模拟
+* Vault of the Void / 虚空穹牢：https://store.steampowered.com/app/1135810/Vault_of_the_Void/
+### 卡牌
+* Kingdoms Reborn / 王国重生：https://store.steampowered.com/app/1307890/Kingdoms_Reborn/
+* The Architect: Paris / 巴黎建筑师：https://store.steampowered.com/app/1525620/The_Architect_Paris/
+### 多人
+* Microworks：https://store.steampowered.com/app/1233410/MicroWorks/
