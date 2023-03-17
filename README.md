@@ -11,7 +11,7 @@
 ## 项目
 ### Ghost Lore / 鬼怪传说 (停更)
 * [Steam页面](https://store.steampowered.com/app/1783280/Ghostlore/)
-* [下载链接] (https://pan.baidu.com/s/1rDiu20jI38fv5VsgpHM0LQ) 提取码: f3qc
+* [下载链接](https://pan.baidu.com/s/1rDiu20jI38fv5VsgpHM0LQ) 提取码: f3qc
 * 另外可在创意工坊订阅
 * 当前版本：0.3
 ### Love Love School Days
@@ -21,7 +21,7 @@
 * 当前版本：1.5
 
 ### 9 Childs Street
-* [Steam页面](https://store.steampowered.com/app/1895890/9_Childs_Street/
+* [Steam页面](https://store.steampowered.com/app/1895890/9_Childs_Street/)
 * [下载链接](https://pan.baidu.com/s/1IoFNHwFzrfErpEDeWd_wUw?pwd=8zh9)
 * [专栏](https://www.bilibili.com/read/cv21710809)
 
