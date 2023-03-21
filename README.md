@@ -45,3 +45,5 @@
 * [Microworks](https://store.steampowered.com/app/1233410/MicroWorks/)
 ### 潜行
 * [Gone Rogue（正在翻译）](https://store.steampowered.com/app/1803600/Gone_Rogue/)
+### RPG
+[Of Blades & Tails / 剑与狐尾(待翻译)](https://store.steampowered.com/app/1768780/Of_Blades__Tails/)
