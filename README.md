@@ -32,18 +32,18 @@
 支持本地化的游戏进行的汉化，只保留评价较好的游戏
 
 ### 恐怖
-* [Phasmophobia / 恐鬼症](https://store.steampowered.com/app/739630/Phasmophobia/)
-* [FOREWARNED](https://store.steampowered.com/app/1562420/FOREWARNED/)
-* [Labyrinthine / 迷宫探险](https://store.steampowered.com/app/1302240/Labyrinthine/)
+* [Phasmophobia / 恐鬼症](https://store.steampowered.com/app/739630/Phasmophobia/) 文本量：45360+
+* [FOREWARNED](https://store.steampowered.com/app/1562420/FOREWARNED/) 文本量：56915+
+* [Labyrinthine / 迷宫探险](https://store.steampowered.com/app/1302240/Labyrinthine/) 文本量：42251
 ### 卡牌
-* [Vault of the Void / 虚空穹牢](https://store.steampowered.com/app/1135810/Vault_of_the_Void/)
-* [Mori Carta(等待官方支持)](https://store.steampowered.com/app/1570830/Mori_Carta/)
+* [Vault of the Void / 虚空穹牢](https://store.steampowered.com/app/1135810/Vault_of_the_Void/) 文本量（游戏+更新日志）：71515+
+* [Mori Carta(等待官方支持)](https://store.steampowered.com/app/1570830/Mori_Carta/) 
 ### 模拟
-* [Kingdoms Reborn / 王国重生](https://store.steampowered.com/app/1307890/Kingdoms_Reborn/)
-* [The Architect: Paris / 巴黎建筑师](https://store.steampowered.com/app/1525620/The_Architect_Paris/)
+* [Kingdoms Reborn / 王国重生](https://store.steampowered.com/app/1307890/Kingdoms_Reborn/) 文本量：17603+
+* [The Architect: Paris / 巴黎建筑师](https://store.steampowered.com/app/1525620/The_Architect_Paris/) 文本量：24071
 ### 多人
 * [Microworks](https://store.steampowered.com/app/1233410/MicroWorks/)
 ### 潜行
-* [Gone Rogue（正在翻译）](https://store.steampowered.com/app/1803600/Gone_Rogue/)
+* [Gone Rogue（正在翻译）](https://store.steampowered.com/app/1803600/Gone_Rogue/) 文本量：72452
 ### RPG
-[Of Blades & Tails / 剑与狐尾(待翻译)](https://store.steampowered.com/app/1768780/Of_Blades__Tails/)
+[Of Blades & Tails / 剑与狐尾(待翻译)](https://store.steampowered.com/app/1768780/Of_Blades__Tails/) 文本量：9000+
