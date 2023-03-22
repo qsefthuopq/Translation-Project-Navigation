@@ -9,10 +9,6 @@
 * Unity（制作TMP字体）
 * [AssetStudio](https://github.com/Perfare/AssetStudio)
 ## 项目
-### Ghost Lore / 鬼怪传说 (停更)
-* [Steam页面](https://store.steampowered.com/app/1783280/Ghostlore/)
-* 另外可在创意工坊订阅
-* 当前版本：0.3
 ### Love Love School Days
 * [Steam页面](https://store.steampowered.com/app/1305300/Love_Love_School_Days/)
 * [下载链接](链接:https://pan.baidu.com/s/1qbvl6Jn14hsN2979fbyC8A?pwd=wh9r)
