@@ -35,7 +35,7 @@
 * [Vault of the Void / 虚空穹牢](https://store.steampowered.com/app/1135810/Vault_of_the_Void/) 文本量（游戏+更新日志）：71515+
 * [Mori Carta(等待官方支持)](https://store.steampowered.com/app/1570830/Mori_Carta/) 
 ### 模拟
-* [Kingdoms Reborn / 王国重生](https://store.steampowered.com/app/1307890/Kingdoms_Reborn/) 文本量：17603+
+* [*](https://store.steampowered.com/app/1307890/Kingdoms_Reborn/) 文本量：17603+
 * [The Architect: Paris / 巴黎建筑师](https://store.steampowered.com/app/1525620/The_Architect_Paris/) 文本量：24071
 ### 多人
 * [Microworks](https://store.steampowered.com/app/1233410/MicroWorks/)
@@ -43,3 +43,8 @@
 * [Gone Rogue（正在翻译）](https://store.steampowered.com/app/1803600/Gone_Rogue/) 文本量：72452
 ### RPG
 [Of Blades & Tails / 剑与狐尾(待翻译)](https://store.steampowered.com/app/1768780/Of_Blades__Tails/) 文本量：9000+
+## CDKey出售
+* 译者进行的大部分都是无偿翻译，如果有需要或有能力，可以在SteamPY上购买译者出售的游戏激活码。
+* 所有激活码默认在全球区，以折扣低价出售，卖方：q****q
+** Kingdoms Reborn / 王国重生 48元
+** Occult　15元
