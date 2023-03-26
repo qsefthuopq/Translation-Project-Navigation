@@ -46,5 +46,6 @@
 ## CDKey出售
 * 译者进行的大部分都是无偿翻译，如果有需要或有能力，可以在SteamPY上购买译者出售的游戏激活码。
 * 所有激活码默认在全球区，以折扣低价出售，卖方：q****q
-** Kingdoms Reborn / 王国重生 48元
-** Occult　15元
+
+* Kingdoms Reborn / 王国重生 48元
+* Occult　15元
