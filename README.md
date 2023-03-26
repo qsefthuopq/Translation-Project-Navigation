@@ -1,29 +1,31 @@
 # 个人汉化游戏导航
 ## 汉化声明
 * 汉化使用XUnity.AutoTranslator自动翻译器，由qsefthuopq提供。仅供学习交流，严禁用于商业用途。
-* 本页面用于归档个人汉化的部分游戏，基于XUnity.AutoTranslator，并不能完全汉化，部分文本可能无法识别。
+* 本页面用于归档个人汉化的部分游戏，使用XUnity.AutoTranslator并不能完全汉化，部分文本可能无法识别。
 * 使用该工具需要通关游戏，查看所有文本，因此译者未遇到的文本默认使用机翻。
 * 包含变量的文本需要用到正则表达式，部分译作尚未设置好相关配置，同样默认使用机翻。
 ## 使用工具
 * [XUnity.AutoTranslator](https://github.com/bbepis/XUnity.AutoTranslator)
 * Unity（制作TMP字体）
 * [AssetStudio](https://github.com/Perfare/AssetStudio)
-## 项目
-### Love Love School Days
+## 翻译项目
+### 恐怖
+#### Love Love School Days
 * [Steam页面](https://store.steampowered.com/app/1305300/Love_Love_School_Days/)
 * [下载链接](链接:https://pan.baidu.com/s/1qbvl6Jn14hsN2979fbyC8A?pwd=wh9r)
 * [哔哩哔哩专栏](https://www.bilibili.com/read/cv21710809)
 * 当前版本：1.5
 
-### 9 Childs Street
+#### 9 Childs Street
 * [Steam页面](https://store.steampowered.com/app/1895890/9_Childs_Street/)
 * [下载链接](https://pan.baidu.com/s/1IoFNHwFzrfErpEDeWd_wUw?pwd=8zh9)
 * [专栏](https://www.bilibili.com/read/cv21710809)
 
-### Anemoiapolis/风幻迷域：第一章
+#### Anemoiapolis/风幻迷域：第一章
 * [Steam页面](https://store.steampowered.com/app/1522960/Anemoiapolis_Chapter_1/)
 * [下载链接](https://pan.baidu.com/s/1FQq3tF6TGsoLlCXLWvK4NQ?pwd=m8yw)
 * [专栏](https://www.bilibili.com/read/cv22235477)
+
 ## 官方中文
 支持本地化的游戏进行的汉化，只保留评价较好的游戏
 
@@ -35,7 +37,7 @@
 * [Vault of the Void / 虚空穹牢](https://store.steampowered.com/app/1135810/Vault_of_the_Void/) 文本量（游戏+更新日志）：71515+
 * [Mori Carta(等待官方支持)](https://store.steampowered.com/app/1570830/Mori_Carta/) 
 ### 模拟
-* [*](https://store.steampowered.com/app/1307890/Kingdoms_Reborn/) 文本量：17603+
+* [Kingdoms Reborn / 王国重生](https://store.steampowered.com/app/1307890/Kingdoms_Reborn/) 文本量：17603+
 * [The Architect: Paris / 巴黎建筑师](https://store.steampowered.com/app/1525620/The_Architect_Paris/) 文本量：24071
 ### 多人
 * [Microworks](https://store.steampowered.com/app/1233410/MicroWorks/)
