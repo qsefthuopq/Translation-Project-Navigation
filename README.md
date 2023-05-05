@@ -14,7 +14,6 @@
 * [Steam页面](https://store.steampowered.com/app/1305300/Love_Love_School_Days/)
 * [下载链接](链接:https://pan.baidu.com/s/1qbvl6Jn14hsN2979fbyC8A?pwd=wh9r)
 * [哔哩哔哩专栏](https://www.bilibili.com/read/cv21710809)
-* 当前版本：1.5
 
 #### 9 Childs Street
 * [Steam页面](https://store.steampowered.com/app/1895890/9_Childs_Street/)
@@ -44,12 +43,12 @@
 ### 多人
 * [Microworks / 微机派对](https://store.steampowered.com/app/1233410/MicroWorks/)
 ### 潜行
-* [Gone Rogue / 离经叛道](https://store.steampowered.com/app/1803600/Gone_Rogue/) 文本量：72452
+* [Gone Rogue / 离经叛盗](https://store.steampowered.com/app/1803600/Gone_Rogue/) 文本量：72452
 ### 回合制角色扮演
 * [Of Blades & Tails / 剑与狐尾](https://store.steampowered.com/app/1768780/Of_Blades__Tails/) 文本量：9000+
 
 ## CDKey出售
 译者进行的大部分都是无偿翻译，如果有需要或有能力，可以在SteamPY上购买译者出售的游戏激活码。
-所有激活码默认在全球区，以折扣低价出售
+所有激活码默认支持全球区和国区激活，以折扣低价出售
 
 * [SteamPY链接](https://steampy.com/share?id=634193707742007296)
