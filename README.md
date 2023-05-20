@@ -12,7 +12,7 @@
 ### 恐怖
 #### Love Love School Days
 * [Steam页面](https://store.steampowered.com/app/1305300/Love_Love_School_Days/)
-* [下载链接](链接:https://pan.baidu.com/s/1qbvl6Jn14hsN2979fbyC8A?pwd=wh9r)
+* [下载链接](链接：https://pan.baidu.com/s/1GgV26horfw-oSEjxeyTo7A?pwd=w8qh)
 * [哔哩哔哩专栏](https://www.bilibili.com/read/cv21710809)
 
 #### 9 Childs Street
@@ -25,6 +25,10 @@
 * [下载链接](https://pan.baidu.com/s/1FQq3tF6TGsoLlCXLWvK4NQ?pwd=m8yw)
 * [专栏](https://www.bilibili.com/read/cv22235477)
 
+#### Wretched Depths/悲惨深渊
+* [Steam页面](https://store.steampowered.com/app/2343240/Wretched_Depths/)
+* [下载链接](https://pan.baidu.com/s/1Ja8-ZKZUKlDFgyWOd7CCPQ?pwd=fkt8)
+* [专栏](https://www.bilibili.com/read/cv23549290)
 ## 官方中文
 支持本地化的游戏进行的汉化，只保留评价较好的游戏
 
