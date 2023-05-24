@@ -30,7 +30,7 @@
 * [下载链接](https://pan.baidu.com/s/1Ja8-ZKZUKlDFgyWOd7CCPQ?pwd=fkt8)
 * [专栏](https://www.bilibili.com/read/cv23549290)
 ## 官方中文
-支持本地化的游戏进行的汉化，只保留评价较好的游戏
+支持本地化的游戏进行的汉化，以下列表仅为冰山一角
 
 ### 恐怖
 * [Phasmophobia / 恐鬼症](https://store.steampowered.com/app/739630/Phasmophobia/) 文本量：45360+
@@ -42,7 +42,7 @@
 ### 城建模拟
 * [Kingdoms Reborn / 王国重生](https://store.steampowered.com/app/1307890/Kingdoms_Reborn/) 文本量：17603+
 * [The Architect: Paris / 巴黎建筑师](https://store.steampowered.com/app/1525620/The_Architect_Paris/) 文本量：24071
-* [Grimgrad(正在翻译)](https://store.steampowered.com/app/1837340/Grimgrad/) 
+* [Grimgrad](https://store.steampowered.com/app/1837340/Grimgrad/) 
 
 ### 多人
 * [Microworks / 微机派对](https://store.steampowered.com/app/1233410/MicroWorks/)
@@ -56,3 +56,4 @@
 所有激活码默认支持全球区和国区激活，以折扣低价出售
 
 * [SteamPY链接](https://steampy.com/share?id=634193707742007296)
+* [捐赠链接 (PayPal)](paypal.me/qsef)
