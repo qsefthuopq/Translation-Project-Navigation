@@ -59,5 +59,5 @@
 
 
 ## 捐赠链接
-* [PayPal](paypal.me/qsef)
+* [PayPal](https://paypal.me/qsef)
 * [爱发电](https://afdian.net/a/qser1)
