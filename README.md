@@ -56,4 +56,8 @@
 所有激活码默认支持全球区和国区激活，以折扣低价出售
 
 * [SteamPY链接](https://steampy.com/share?id=634193707742007296)
-* [捐赠链接 (PayPal)](paypal.me/qsef)
+
+
+## 捐赠链接
+* [PayPal](paypal.me/qsef)
+* [爱发电](https://afdian.net/a/qser1)
