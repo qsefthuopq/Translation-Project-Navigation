@@ -13,7 +13,7 @@
 ### 恐怖
 #### Love Love School Days
 * [Steam页面](https://store.steampowered.com/app/1305300/Love_Love_School_Days/)
-* [下载链接](链接：https://pan.baidu.com/s/1GgV26horfw-oSEjxeyTo7A?pwd=w8qh)
+* [下载链接](https://pan.baidu.com/s/1GgV26horfw-oSEjxeyTo7A?pwd=w8qh)
 * [哔哩哔哩专栏](https://www.bilibili.com/read/cv21710809)
 
 #### Spookys Jump Scare Mansion HD Renovation / 惊吓幽灵屋：高清重制版
