@@ -5,15 +5,21 @@
 * 使用该工具需要通关游戏，查看所有文本，因此译者未遇到的文本默认使用机翻。
 * 包含变量的文本需要用到正则表达式，部分译作尚未设置好相关配置，同样默认使用机翻。
 ## 使用工具
-* [XUnity.AutoTranslator](https://github.com/bbepis/XUnity.AutoTranslator)
+* [XUnity.AutoTranslator-自动翻译器](https://github.com/bbepis/XUnity.AutoTranslator)
 * Unity（制作TMP字体）
-* [AssetStudio](https://github.com/Perfare/AssetStudio)
+* [AssetStudio-资源搜索/导出](https://github.com/Perfare/AssetStudio)
+* [UABEA-资源替换](https://github.com/nesrak1/UABEA)
 ## 翻译项目
 ### 恐怖
 #### Love Love School Days
 * [Steam页面](https://store.steampowered.com/app/1305300/Love_Love_School_Days/)
 * [下载链接](链接：https://pan.baidu.com/s/1GgV26horfw-oSEjxeyTo7A?pwd=w8qh)
 * [哔哩哔哩专栏](https://www.bilibili.com/read/cv21710809)
+
+#### Spookys Jump Scare Mansion HD Renovation / 惊吓幽灵屋：高清重制版
+* [Steam页面](https://store.steampowered.com/app/577690/Spookys_Jump_Scare_Mansion_HD_Renovation/)
+* [下载链接](https://pan.baidu.com/s/1EhDGwH_tezzyEGXYOEpv_A?pwd=96t1)
+* [专栏](https://www.bilibili.com/read/cv23966534)
 
 #### 9 Childs Street
 * [Steam页面](https://store.steampowered.com/app/1895890/9_Childs_Street/)
@@ -59,5 +65,4 @@
 
 
 ## 捐赠链接
-* [PayPal](https://paypal.me/qsef)
 * [爱发电](https://afdian.net/a/qser1)
