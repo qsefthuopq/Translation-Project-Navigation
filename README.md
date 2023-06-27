@@ -13,32 +13,26 @@
 ### 恐怖
 #### Love Love School Days
 * [Steam页面](https://store.steampowered.com/app/1305300/Love_Love_School_Days/)
-* [下载链接](https://pan.baidu.com/s/1GgV26horfw-oSEjxeyTo7A?pwd=w8qh)
 * [哔哩哔哩专栏](https://www.bilibili.com/read/cv21710809)
 
 #### Spookys Jump Scare Mansion HD Renovation / 惊吓幽灵屋：高清重制版
 * [Steam页面](https://store.steampowered.com/app/577690/Spookys_Jump_Scare_Mansion_HD_Renovation/)
-* [下载链接](https://pan.baidu.com/s/1EhDGwH_tezzyEGXYOEpv_A?pwd=96t1)
 * [专栏](https://www.bilibili.com/read/cv23966534)
 
 #### 9 Childs Street
 * [Steam页面](https://store.steampowered.com/app/1895890/9_Childs_Street/)
-* [下载链接](https://pan.baidu.com/s/1IoFNHwFzrfErpEDeWd_wUw?pwd=8zh9)
 * [专栏](https://www.bilibili.com/read/cv21710809)
 
 #### Anemoiapolis/风幻迷域：第一章
 * [Steam页面](https://store.steampowered.com/app/1522960/Anemoiapolis_Chapter_1/)
-* [下载链接](https://pan.baidu.com/s/1FQq3tF6TGsoLlCXLWvK4NQ?pwd=m8yw)
 * [专栏](https://www.bilibili.com/read/cv22235477)
 
 #### Wretched Depths/悲惨深渊
 * [Steam页面](https://store.steampowered.com/app/2343240/Wretched_Depths/)
-* [下载链接](https://pan.baidu.com/s/1Ja8-ZKZUKlDFgyWOd7CCPQ?pwd=fkt8)
 * [专栏](https://www.bilibili.com/read/cv23549290)
 
 #### The Tartarus Key/塔尔塔罗斯之钥
 * [Steam页面](https://steamcommunity.com/app/1431850)
-* [下载链接](https://pan.baidu.com/s/1JgFlAx_uoWs67pcZxbbnbQ?pwd=hn9r%C2%A0)
 * [专栏](https://www.bilibili.com/read/cv24440301)
 ## 官方中文
 支持本地化的游戏进行的汉化，以下列表仅为冰山一角
