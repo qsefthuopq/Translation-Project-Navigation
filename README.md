@@ -35,6 +35,11 @@
 * [Steam页面](https://store.steampowered.com/app/2343240/Wretched_Depths/)
 * [下载链接](https://pan.baidu.com/s/1Ja8-ZKZUKlDFgyWOd7CCPQ?pwd=fkt8)
 * [专栏](https://www.bilibili.com/read/cv23549290)
+
+#### The Tartarus Key/塔尔塔罗斯之钥
+* [Steam页面](https://steamcommunity.com/app/1431850)
+* [下载链接](https://pan.baidu.com/s/1JgFlAx_uoWs67pcZxbbnbQ?pwd=hn9r%C2%A0)
+* [专栏](https://www.bilibili.com/read/cv24440301)
 ## 官方中文
 支持本地化的游戏进行的汉化，以下列表仅为冰山一角
 
