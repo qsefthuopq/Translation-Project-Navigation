@@ -9,8 +9,7 @@
 * Unity（制作TMP字体）
 * [AssetStudio-资源搜索/导出](https://github.com/Perfare/AssetStudio)
 * [UABEA-资源替换](https://github.com/nesrak1/UABEA)
-## 翻译项目
-### 恐怖
+## 汉化补丁
 #### Love Love School Days
 * [Steam页面](https://store.steampowered.com/app/1305300/Love_Love_School_Days/)
 * [哔哩哔哩专栏](https://www.bilibili.com/read/cv21710809)
@@ -34,6 +33,15 @@
 #### The Tartarus Key/塔尔塔罗斯之钥
 * [Steam页面](https://steamcommunity.com/app/1431850)
 * [专栏](https://www.bilibili.com/read/cv24440301)
+
+#### METEL
+* [Steam页面](https://store.steampowered.com/app/1357870/Metel__Horror_Escape/)
+* [专栏](https://www.bilibili.com/read/cv26873856/)
+
+
+#### SPOOKWARE
+* [Steam页面](https://store.steampowered.com/app/1574250/SPOOKWARE/)
+* [专栏](https://www.bilibili.com/read/cv27082981/)
 ## 官方中文
 支持本地化的游戏进行的汉化，以下列表仅为冰山一角
 
