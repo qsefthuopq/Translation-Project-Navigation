@@ -42,6 +42,15 @@
 #### SPOOKWARE
 * [Steam页面](https://store.steampowered.com/app/1574250/SPOOKWARE/)
 * [专栏](https://www.bilibili.com/read/cv27082981/)
+
+#### MANNY's
+* [Steam页面](https://store.steampowered.com/app/2518900/Mannys/)
+* [专栏](https://www.bilibili.com/read/cv27780851/)
+
+#### LUNACID
+* [Steam页面](https://store.steampowered.com/app/1745510/Lunacid/)
+* [专栏](https://www.bilibili.com/read/cv27781050/)
+
 ## 官方中文
 支持本地化的游戏进行的汉化，以下列表仅为冰山一角
 
