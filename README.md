@@ -10,46 +10,8 @@
 * [AssetStudio-资源搜索/导出](https://github.com/Perfare/AssetStudio)
 * [UABEA-资源替换](https://github.com/nesrak1/UABEA)
 ## 汉化补丁
-#### Love Love School Days
-* [Steam页面](https://store.steampowered.com/app/1305300/Love_Love_School_Days/)
-* [哔哩哔哩专栏](https://www.bilibili.com/read/cv21710809)
+[B站合集](https://www.bilibili.com/read/readlist/rl673289)
 
-#### Spookys Jump Scare Mansion HD Renovation / 惊吓幽灵屋：高清重制版
-* [Steam页面](https://store.steampowered.com/app/577690/Spookys_Jump_Scare_Mansion_HD_Renovation/)
-* [专栏](https://www.bilibili.com/read/cv23966534)
-
-#### 9 Childs Street
-* [Steam页面](https://store.steampowered.com/app/1895890/9_Childs_Street/)
-* [专栏](https://www.bilibili.com/read/cv21710809)
-
-#### Anemoiapolis/风幻迷域：第一章
-* [Steam页面](https://store.steampowered.com/app/1522960/Anemoiapolis_Chapter_1/)
-* [专栏](https://www.bilibili.com/read/cv22235477)
-
-#### Wretched Depths/悲惨深渊
-* [Steam页面](https://store.steampowered.com/app/2343240/Wretched_Depths/)
-* [专栏](https://www.bilibili.com/read/cv23549290)
-
-#### The Tartarus Key/塔尔塔罗斯之钥
-* [Steam页面](https://steamcommunity.com/app/1431850)
-* [专栏](https://www.bilibili.com/read/cv24440301)
-
-#### METEL
-* [Steam页面](https://store.steampowered.com/app/1357870/Metel__Horror_Escape/)
-* [专栏](https://www.bilibili.com/read/cv26873856/)
-
-
-#### SPOOKWARE
-* [Steam页面](https://store.steampowered.com/app/1574250/SPOOKWARE/)
-* [专栏](https://www.bilibili.com/read/cv27082981/)
-
-#### MANNY's
-* [Steam页面](https://store.steampowered.com/app/2518900/Mannys/)
-* [专栏](https://www.bilibili.com/read/cv27780851/)
-
-#### LUNACID
-* [Steam页面](https://store.steampowered.com/app/1745510/Lunacid/)
-* [专栏](https://www.bilibili.com/read/cv27781050/)
 
 ## 官方中文
 支持本地化的游戏进行的汉化，以下列表仅为冰山一角
@@ -79,5 +41,3 @@
 * [SteamPY链接](https://steampy.com/share?id=634193707742007296)
 
 
-## 捐赠链接
-* [爱发电](https://afdian.net/a/qser1)
