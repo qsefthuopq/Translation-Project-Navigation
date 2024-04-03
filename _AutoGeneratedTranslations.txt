@@ -536,3 +536,14 @@ Smartphone=手机
 Shoes=鞋子
 [Space]=[空格键]
 CHROMATIC ABERRATION=色差
+soound volume=音效音量
+music volume=音乐音量
+master volume=主音量
+other=其他
+graphics=图像
+audio=音频
+resolution=分辨率
+quality=质量
+window mode=窗口模式
+reset game=重置游戏
+
