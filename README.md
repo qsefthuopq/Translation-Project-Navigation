@@ -6,11 +6,15 @@
 * 包含变量的文本需要用到正则表达式，部分译作尚未设置好相关配置，同样默认使用机翻。
 ## 使用工具
 * [XUnity.AutoTranslator-自动翻译器](https://github.com/bbepis/XUnity.AutoTranslator)
-* Unity（制作TMP字体）
 * [AssetStudio-资源搜索/导出](https://github.com/Perfare/AssetStudio)
 * [UABEA-资源替换](https://github.com/nesrak1/UABEA)
+* FModel
+* UndertaleModTool
+* UnrealPakSwitch
+* UnrealPakTool
 ## 汉化补丁
 [B站合集](https://www.bilibili.com/read/readlist/rl673289)
+
 由于B站无故被封，暂时将下载链接列举于此
 
 Psycho Fear
