@@ -5,17 +5,33 @@
 * 使用该工具需要通关游戏，查看所有文本，因此译者未遇到的文本默认使用机翻。
 * 包含变量的文本需要用到正则表达式，部分译作尚未设置好相关配置，同样默认使用机翻。
 ## 使用工具
-* [XUnity.AutoTranslator-自动翻译器](https://github.com/bbepis/XUnity.AutoTranslator)
+* [XUnity.AutoTranslator](https://github.com/bbepis/XUnity.AutoTranslator)
 * [AssetStudio-资源搜索/导出](https://github.com/Perfare/AssetStudio)
 * [UABEA-资源替换](https://github.com/nesrak1/UABEA)
 * FModel
 * UndertaleModTool
 * UnrealPakSwitch
 * UnrealPakTool
+
+
+
 ## 汉化补丁
 [B站合集](https://www.bilibili.com/read/readlist/rl673289)
+### 使用说明
+#### Unity
+大部分使用的是BepInEx和MelonLoader，解压至游戏根目录即可
+Reipatcher需要解压至游戏根目录并运行SetupReiPatcherAndAutoTranslator.exe
+之后运行生成的游戏exe文件
 
-由于B站无故被封，暂时将下载链接列举于此
+#### Unreal
+压缩包的Mod加载 解压至游戏根目录
+单Pak文件解压至 游戏ID/Content/Pak 确认该文件夹内有不带_p后缀的pak文件
+
+#### Unreal
+解压至游戏根目录，覆盖data.win
+
+
+由于B站无故被AI封禁，暂时将下载链接列举于此
 
 Psycho Fear
 https://www.123684.com/s/j8UiVv-6Pnk3
