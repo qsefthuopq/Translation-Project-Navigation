@@ -31,10 +31,10 @@ Reipatcher需要解压至游戏根目录并运行SetupReiPatcherAndAutoTranslato
 解压至游戏根目录，覆盖data.win
 
 
-由于B站无故被AI封禁，暂时将下载链接列举于此
+由于之前被B站被AI误封，以下列出下载链接以作备份
 
-Psycho Fear
-https://www.123684.com/s/j8UiVv-6Pnk3
+Psycho Fear v1.1
+https://www.123684.com/s/j8UiVv-Gsnk3
 
 Bring Me...
 https://www.123684.com/s/j8UiVv-hGnk3
