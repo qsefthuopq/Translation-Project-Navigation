@@ -27,7 +27,7 @@ Reipatcher需要解压至游戏根目录并运行SetupReiPatcherAndAutoTranslato
 压缩包的Mod加载 解压至游戏根目录
 单Pak文件解压至 游戏ID/Content/Pak 确认该文件夹内有不带_p后缀的pak文件
 
-#### Unreal
+#### GameMaker
 解压至游戏根目录，覆盖data.win
 
 
