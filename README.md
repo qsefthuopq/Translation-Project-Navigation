@@ -4,6 +4,9 @@
 * 本页面用于归档个人汉化的部分游戏，使用XUnity.AutoTranslator并不能完全汉化，部分文本可能无法识别。
 * 使用该工具需要通关游戏，查看所有文本，因此译者未遇到的文本默认使用机翻。
 * 包含变量的文本需要用到正则表达式，部分译作尚未设置好相关配置，同样默认使用机翻。
+# Contact info
+* E-mail: qsefthuopq@gmail.com
+* Discord: qsefthuopq#6643
 ## 使用工具
 * [XUnity.AutoTranslator](https://github.com/bbepis/XUnity.AutoTranslator)
 * [AssetStudio-资源搜索/导出](https://github.com/Perfare/AssetStudio)
