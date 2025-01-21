@@ -18,7 +18,7 @@
 
 ##字体
 TMP Font文件夹内为使用Unity制作的字体，适用于XUnity翻译器，von文件夹内为适用于GamMaker字体
-
+字体制作可参考(https://github.com/LocalizeLimbusCompany/LLC_ChineseFontAsset)
 ## 汉化补丁
 [B站合集](https://www.bilibili.com/read/readlist/rl673289)
 ### 使用说明
