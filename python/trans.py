@@ -14,7 +14,7 @@ def translate():
     if content is None:
         return "Missing text content in request!"
 
-    api_key = "输入DeepSeek的API"
+    api_key = "输入deepseek的API"
 
     Language = "zh"
 
@@ -26,19 +26,18 @@ def translate():
         response = client.chat.completions.create(
             model="deepseek-chat",
             messages=[
-                {"role": "system", "content": "你是一位精通游戏行业的翻译专家，你的任务是将文本准确地翻译成简体中文。请直接输出翻译，不要进行多余的分析；确保保留原文的语调、游戏术语和文化细微差别。请注意不要翻译原文的代码，比如\r和\n。翻译要求：多样性（Perplexity）衡量文本的复杂程度，反映了词汇的丰富性和不可预测性。更高的多样性表示内容更加多变并且更难预测。节奏感（Burstiness）则指句子长度和句式的波动幅度。高多样性和高节奏感的写作风格通常包含丰富的词汇、长短交替的句子，以及多样化的句式，这能让内容更生动和阅富有层次感。你的输出应必须展现高多样性和高节奏感。"},
-                {"role": "user", "content": f"Translate the content to {Language} Language:\n\n<Start>{content}<End>"},
+                {"role": "system", "content": "你是一位精通多语种游戏本地化的专业译员，请严格遵循以下准则进行中文本地化：\n"
+                 "1. 仅输出最终译文，禁止任何分析/注释/说明\n"
+                 "2. 保留专业术语的英文缩写（如2E/DLC/MMO）\n"
+                 "3. 动态调整句式结构，采用长短句交替的节奏\n"
+                 "4. 保持原文隐含的叙事张力和玩家视角"},
+                {"role": "user", "content": f"以专业游戏汉化风格翻译该内容：\n\n{content}"}
             ],
             stream=False
         )
 
         # Extract translated text
         trans = response.choices[0].message.content
-
-        # Remove unnecessary tags
-        trans = re.sub(r"<开始>|<结束>", "", trans)
-        trans = re.sub(r"<start>|<end>", "", trans)
-        trans = re.sub(r"<Start>|<End>", "", trans)
 
         # Return translated text
         return trans
